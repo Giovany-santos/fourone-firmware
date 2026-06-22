@@ -1,1 +1,1 @@
-{"status":"ok","config":{"modo":"RS485","controlador":"NONE","comando":"","cmd_id":0,"firmware_version":"0.4.3","raw_diag":true}}
+{"status":"ok","config":{"modo":"CONVERSOR","controlador":"NONE","comando":"","cmd_id":0,"firmware_version":"0.4.3","raw_diag":true}}
