@@ -1,1 +1,1 @@
-{"status":"ok","config":{"modo":"CONVERSOR","controlador":"DSE4520","comando":"","cmd_id":0,"raw_diag":false}}
+{"status":"ok","config":{"modo":"RS485","controlador":"NONE","comando":"","cmd_id":0,"firmware_version":"0.4.2","firmware_url":"https://github.com/Giovany-santos/fourone-firmware/releases/download/v0.4.2/firmware.bin","raw_diag":true}}
