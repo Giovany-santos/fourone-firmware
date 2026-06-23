@@ -1,1 +1,1 @@
-{"status":"ok","config":{"modo":"CONVERSOR","controlador":"DSE4520","comando":"","cmd_id":0,"raw_diag":false}}
+{"status":"ok","config":{"modo":"CONVERSOR","controlador":"DSE4520","comando":"START","cmd_id":1,"firmware_version":"0.4.3","raw_diag":true}}
