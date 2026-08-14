@@ -1,1 +1,1 @@
-{"status":"ok","config":{"comando":"STOP","cmd_id":17,"modo":"RS485","controlador":"CGC400","firmware_version":"0.4.6","raw_diag":true,"slave_id":1,"baud":115200,"auto_sync":false}}
+{"status":"ok","config":{"comando":"START","cmd_id":18,"modo":"RS485","controlador":"CGC400","firmware_version":"0.4.6","raw_diag":true,"slave_id":1,"baud":115200,"auto_sync":false}}
