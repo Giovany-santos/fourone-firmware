@@ -1,1 +1,1 @@
-{"status":"ok","config":{"comando":"START","cmd_id":27,"modo":"RS485","controlador":"CGC400","firmware_version":"0.7.0","raw_diag":true,"slave_id":1,"baud":9600,"auto_sync":false}}
+{"status":"ok","config":{"comando":"START","cmd_id":27,"modo":"RS485","controlador":"CGC400","firmware_version":"0.7.0","raw_diag":true,"slave_id":1,"baud":9600,"auto_sync":false,"mi_oil":"","mi_temp":"","mi_fuel":""}}
