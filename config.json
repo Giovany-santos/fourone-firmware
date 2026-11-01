@@ -1,1 +1,1 @@
-{"status":"ok","config":{"comando":"","cmd_id":66,"ses":"0c72d102","modo":"RS485","controlador":"SGC 420 MKII","raw_diag":true,"slave_id":1,"baud":9600,"auto_sync":false,"wifi_ssid":"Thorio-Mobile","wifi_pass":"TH@@Th0r10","mi_oil":"","mi_temp":"","mi_fuel":""}}
+{"status":"ok","config":{"comando":"","cmd_id":66,"ses":"02a15c52","modo":"RS485","controlador":"SGC 420 MKII","raw_diag":true,"slave_id":1,"baud":9600,"auto_sync":false,"wifi_ssid":"Thorio-Mobile","wifi_pass":"TH@@Th0r10","mi_oil":"","mi_temp":"","mi_fuel":""}}
